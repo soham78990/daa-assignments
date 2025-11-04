@@ -1,6 +1,5 @@
 // multistage_dp_swiftcargo
 //PRN : 122B1F077 Assignment 5
-//DATE : 25/08/25
 #include <bits/stdc++.h>
 using namespace std;
 
