@@ -1,3 +1,4 @@
+// Diaster relif resource allocation use0/1 knapsack approach to optimiaze essential supply allocation
 //Soham Girish Mahajan
 //PRN :122B1F077
 import java.util.*;
@@ -95,6 +96,7 @@ public class Assignment6_DAA {
         System.out.println("\nMaximum Total Utility (DP): " + maxUtility);
     }
 }
+
 
 
 
