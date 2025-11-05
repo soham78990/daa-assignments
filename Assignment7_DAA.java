@@ -1,3 +1,4 @@
+// University time table scheduling ,implement graph coloring technique to genrate conflict force and efficient time tables
 //Soham Girish Mahajan
 //PRN : 122B1F077
 import java.util.*;
